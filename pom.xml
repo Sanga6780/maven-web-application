@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://54.175.192.125:8081/repository/Shiv-Release/</url>
+	      <url>http://52.201.236.74:8081/repository/Shiv-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>VK Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.175.192.125:8081/repository/Shiv-Snapshot/</url>
+	      <url>http://52.201.236.74:8081/repository/Shiv-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
